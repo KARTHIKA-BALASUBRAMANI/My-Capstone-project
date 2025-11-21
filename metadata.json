@@ -1,0 +1,5 @@
+{
+  "name": "MindEase - AI Adaptive Learning Agent",
+  "description": "An 'Agents for Good' capstone project for the Google AI Agents Intensive. MindEase is a multi-agent educational platform that creates personalized learning paths for STEM topics. It features a Curriculum Architect Agent (Planning), a Research Tutor Agent (Search Grounding), and an Assessment Agent (Quiz Generation) to provide a comprehensive learning experience.",
+  "requestFramePermissions": []
+}
